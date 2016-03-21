@@ -1,5 +1,4 @@
-console.log("Inicio de programa");
-alert("Hola JavaScript);
-document.write("<h1>Hola JS UPSE</p>");
-alet("Gracias por visitar");
-console.log("Fin de programa")
+consol.log("Inicio de programa");
+var nombre = promt("Cual es tu nombre?")
+document.write("<h1> Su nombre es " + nombre + ".</p>")
+console.log("Fin de programa");
